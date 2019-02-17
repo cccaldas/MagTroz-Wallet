@@ -31,3 +31,10 @@ Replace URL with git remote repository of your coin.
 ```
 mkdir build && cd build && cmake .. && make
 ```
+
+cryptonote/include/CryptoNote.h
+	typedef size_t TransactionId;
+	typedef size_t TransferId;
+
+## OSX
+brew install qt5

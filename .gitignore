@@ -1,3 +1,6 @@
 .DS_Store
 /build
 /tags
+/magtroz_autogen
+/cryptonote_autogen
+/cryptonote

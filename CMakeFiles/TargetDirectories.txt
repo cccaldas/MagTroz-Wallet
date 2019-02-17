@@ -1,0 +1,6 @@
+/bitblock/experimentos/magtroz/cryptonotewallet/CMakeFiles/rebuild_cache.dir
+/bitblock/experimentos/magtroz/cryptonotewallet/CMakeFiles/edit_cache.dir
+/bitblock/experimentos/magtroz/cryptonotewallet/CMakeFiles/magtroz.dir
+/bitblock/experimentos/magtroz/cryptonotewallet/CMakeFiles/cryptonote.dir
+/bitblock/experimentos/magtroz/cryptonotewallet/CMakeFiles/magtroz_autogen.dir
+/bitblock/experimentos/magtroz/cryptonotewallet/CMakeFiles/cryptonote_autogen.dir
